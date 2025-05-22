@@ -1,2 +1,1 @@
-Proyecto de comunicación I2C-SPI-UART con el PIC85F4550
-
+<small>Proyecto de comunicación I2C-SPI-UART con el PIC85F4550</small>
