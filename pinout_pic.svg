@@ -126,6 +126,6 @@
     <text x='414' y='40' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[I2C]]></text>
     <text x='412' y='82' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[SCL]]></text>
     <text x='411' y='96' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[SDA]]></text>
-    <text x='532' y='166' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[FIN DE LÃ?NEA]]></text>
+    <text x='535' y='166' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[FIN DE LÃ­NEA]]></text>
   </g>
 </svg>
